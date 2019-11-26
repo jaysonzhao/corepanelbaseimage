@@ -1,6 +1,6 @@
 #!/bin/bash -e
-bash -c "git"
-bash -c "ansible"
+# bash -c "git"
+# bash -c "ansible"
 bash -c "ll /opt"
 cat <<EOF
 This is the s2i-tomcat S2I image:
