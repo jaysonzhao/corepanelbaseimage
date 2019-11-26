@@ -1,5 +1,4 @@
-FROM openshift/base-centos7
-
+FROM centos7.7.1908
 #EXPOSE 8081
 
 ENV TOMCAT_VERSION=8.5.45 \
